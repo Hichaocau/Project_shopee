@@ -1,1 +1,2 @@
-A website using HTML and CSS. You can visit in
+A website using HTML and CSS:
+https://hichaocau.github.io/Project_shopee/
